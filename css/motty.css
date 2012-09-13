@@ -1,0 +1,45 @@
+.item-list a:link, .item-list a:visited {
+	color: #ae0d15;
+}
+
+li {
+	list-style-type : none;
+}
+
+.form-text {
+	width : 115px;
+}
+#edit-field-event-date-value-value-date {
+	width : 115px;
+}
+
+#edit-field-event-type-tid-wrapper li {
+	margin-left:-5px;
+}
+
+.image-300_high_container {
+	display: block;
+	float : right;
+	padding-left : 20px;
+	width : 250px;
+}
+
+.image-800_wide {
+	margin-left : auto;
+	margin-right : auto;
+}
+
+.copy-text {
+	text-align : center;
+	font-size : 0.8em;
+}
+
+.copy-text-article {
+	width:250px;
+	float:right;
+}
+
+.instructions-list li {
+	list-style-type : disc;
+	margin-bottom : 15px;
+}

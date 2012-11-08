@@ -1,7 +1,10 @@
 name = Single Page Theme
+project = single_page_theme
 description = Suitable for showing a single page of data, subtheme of Bartik.
 core = 7.x
 base_theme = bartik
+version = 7.x-1.01
+project status url = http://systems.hil.unb.ca/updates
 
 stylesheets[all][] = css/layout.css
 stylesheets[all][] = css/style.css

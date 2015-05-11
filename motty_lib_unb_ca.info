@@ -1,5 +1,4 @@
-name = Single Page Theme
-project = single_page_theme
+name = Motty Theme
 description = Suitable for showing a single page of data, subtheme of Bartik.
 core = 7.x
 base_theme = bartik
